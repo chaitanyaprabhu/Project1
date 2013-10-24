@@ -1,0 +1,7 @@
+hai i am chaitanya prabhu 
+
+welcome to GIT version control system 
+
+It is my first Software configuration management exercise
+
+
